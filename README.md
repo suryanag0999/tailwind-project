@@ -33,5 +33,5 @@ A responsive Twitter clone that replicates the modern layout of Twitter with fun
 ## How to Run the Project
 1. Clone this repository:
    ```sh
-   git clone https://github.com/suryanag9099/login-page.git
-   cd login-page
+   git clone https://github.com/suryanag9099/tailwind-project.git
+   cd tailwind-project
