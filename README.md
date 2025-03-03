@@ -28,7 +28,7 @@ A responsive Twitter clone that replicates the modern layout of Twitter with fun
 ## Project Structure
 - `index.html` - Main HTML file
 - `output.css` - Tailwind CSS stylesheet
-- Google Material Symbols Icons C
+- Google Material Symbols Icons CDN
 
 ## How to Run the Project
 1. Clone this repository:
