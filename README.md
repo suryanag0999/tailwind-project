@@ -13,7 +13,7 @@ A responsive Twitter clone that replicates the modern layout of Twitter with fun
 
 ## Features
 - Fully Responsive Design  
-- Modern UI  
+- Modern U
 - Interactive Icons  
 - Post Creation Interface  
 - Follow & Unfollow Buttons  
