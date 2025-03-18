@@ -17,8 +17,8 @@ A responsive Twitter clone that replicates the modern layout of Twitter with fun
 - Interactive Icons. 
 - Post Creation Interface.  
 - Follow & Unfollow Buttons.  
-- Sticky Navigation  
-- Trending & Who to Follow Sections  
+- Sticky Navigation.  
+- Trending & Who to Follow Sections.  
 
 ## Technologies Used
 - **HTML5**
