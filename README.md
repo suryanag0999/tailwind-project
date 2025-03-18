@@ -12,9 +12,9 @@ A responsive Twitter clone that replicates the modern layout of Twitter with fun
 - Interactive Hover Effects
 
 ## Features
-- Fully Responsive Design  
-- Modern UI
-- Interactive Icons  
+- Fully Responsive Design.
+- Modern UI.
+- Interactive Icons. 
 - Post Creation Interface  
 - Follow & Unfollow Buttons  
 - Sticky Navigation  
