@@ -1,6 +1,6 @@
 # Twitter Clone
 
-This project is a **Twitter Clone** built using **HTML**, **Tailwind CSS**, and **Google Material Symbols Icons**.....
+This project is a **Twitter Clone** built using **HTML**, **Tailwind CSS**, and **Google Material Symbols Icons**...
 
 ## Description
 A responsive Twitter clone that replicates the modern layout of Twitter with functionalities like:
